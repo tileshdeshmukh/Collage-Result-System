@@ -1,0 +1,20 @@
+.homeb{
+	width: 950px;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+.homeb2{
+	width: 500px;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+
+.tt {
+	  border: 2px solid black;
+  border-collapse: collapse;
+}
+.tbl{
+
+}
